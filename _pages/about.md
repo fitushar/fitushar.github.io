@@ -6,13 +6,13 @@ subtitle: AI Phd Candidate @<a href='https://ece.duke.edu/'>Duke-ECE,CVIT</a>| M
 
 profile:
   align: right
-  image: Tushar_Fakrul_islam_343-09305 4.jpg
+  image: Tushar_Fakrul_islam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Durham, NC 27705</p>
 
 news: true # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Fakrul Islam Tushar, a 4th-year Ph.D. candidate at [Duke University’s ECE Department](https://ece.duke.edu/) and Research Associate at the [Center for Virtual Imaging Trials (CVIT)](https://cvit.duke.edu/), specializes in AI-driven multimodal medical imaging and digital twin research to advance personalized healthcare. 
