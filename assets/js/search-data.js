@@ -506,14 +506,14 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0001-7180-563X", "_blank");
+          window.open("https://orcid.org/0000-0001-7180-563X", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Fakrul-Islam-Tushar/", "_blank");
+          window.open("https://www.researchgate.net/profile/Fakrul-Islam-Tushar/", "_blank");
         },
       },{
         id: 'social-scholar',
