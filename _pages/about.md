@@ -9,7 +9,7 @@ profile:
   image: Tushar_Fakrul_islam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Durham, NC 27705</p>
+    <p>tushar.ece@duke.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,9 +21,10 @@ A graduate of the [Erasmus+ Master’s in Medical Imaging (Spain, Italy, France)
 
 His accolades include Erasmus+ and Duke University grants, as well as the AIUB Dean’s Award. Beyond academia, he has contributed to IEEE, Teach For Bangladesh, and Literacy Through Leadership. His work on lung cancer screening using AI-driven virtual imaging trials has earned multiple accolades, including the Best Poster Award at the [Virtual Imaging Trials in Medicine 2024](https://vitm.io/) and a Travel Award at the SPIE Medical Imaging Conference 2024.
 
-# Open Source and Outreach Activities
+## Open Source and Outreach Activities
 I openly share most of the code developed during my research on [GitHub](https://github.com/fitushar). Explore my repository and additional resources below:
 * Virtual Lungs Screening Trials: [VLST](https://fitushar.github.io/VLST.github.io/)
 * Duke Lung Nodule Dataset 2024: [Zenodo](https://zenodo.org/records/10782891)
 * AI in Lung Health Benchmark: [GitHub](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets)
 * In Siloco Case-study: [ReviCOVID](https://fitushar.github.io/ReviCOVID.github.io/)
+* National Lungs Screening Trial's (NLST) 3D nodule Annotation: [GitHub](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets#nlst)
