@@ -9,10 +9,10 @@ profile:
   image: Tushar_Fakrul_islam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>tushar.ece@duke.edu</p>
+    <p>tushar.ece@duke.edu|NC,USA</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 I am Fakrul Islam Tushar, a 4th-year Ph.D. candidate at [Duke University’s ECE Department](https://ece.duke.edu/)  and a Research Associate at the [Center for Virtual Imaging Trials (CVIT)](https://cvit.duke.edu/). My research focuses on AI-driven multimodal medical imaging and digital twin technologies, aiming to advance personalized healthcare.
@@ -24,7 +24,7 @@ Throughout my academic journey, I have been fortunate to receive Erasmus+ and Du
 
 
 
-## Open Source and Outreach Activities
+### Open Source and Outreach Activities
 I openly share most of the code developed during my research on [GitHub](https://github.com/fitushar). Explore my repository and additional resources below:
 * Virtual Lungs Screening Trials: [VLST](https://fitushar.github.io/VLST.github.io/)
 * Duke Lung Nodule Dataset 2024: [Zenodo](https://zenodo.org/records/10782891)
