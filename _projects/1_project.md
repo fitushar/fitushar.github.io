@@ -5,6 +5,7 @@ description: Virtual platform for evaluating imaging technologies
 img: assets/img/VLST_figure1.png
 importance: 1
 category: work
+redirect:https://fitushar.github.io/VLST.github.io/
 related_publications: true
 ---
 Project page:[https://fitushar.github.io/VLST.github.io/](https://fitushar.github.io/VLST.github.io/)
