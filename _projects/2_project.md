@@ -4,8 +4,9 @@ title: AI in Lung Health
 description: Benchmarking Detection, Diagnostic, Segmentation and Radiomics-based analysis
 img: assets/img/cancer_classifications_1.PNG
 importance: 2
+redirect: https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets
 category: work
-giscus_comments: true
+related_publications: true
 ---
 Project Page: [GitHub](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets)
 
