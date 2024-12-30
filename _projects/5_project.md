@@ -1,80 +1,35 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Lung Cancer Longitudinal AI with Rule-Based Interpretability (CLARITY)
+description: Development of a foundational-AI with Synthetic In Silico longitudinal Digital Humans.
+img: assets/img/CLARITY.jpg
 importance: 3
-category: fun
+category: Work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Work is in progress.....**
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project will establish an open-access clinical benchmark and Virtual Imaging Trials (VIT) platform for lung cancer diagnosis (Aim 1). Furthermore, this project will develop a foundational Lung Cancer Longitudinal AI model with Rule-Based Interpretability (CLARITY) for lung cancer screening, leveraging clinical and digital patient cohorts generated from 4D human models (Aim 2). These digital cohorts will simulate diverse lung nodule characteristics (size, margin, type, and location ), each guided by real clinical findings and distributions to ensure clinical
+relevance and accuracy. The model will incorporate simulated longitudinal data to learn how nodules evolve over time, enabling dynamic risk predictions. Furthermore, rule-based interpretability layers aligned with clinical guidelines (Lung-RADS) will provide transparent outputs, while an actionable recommendation system will guide clinicians on follow-up reporting and care.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+**Objective:** Develop an AI model that incorporates longitudinal data for dynamic risk predictions, coupled with rule-based
+interpretability to ensure actionable outputs.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Methods:** 
+* A) Generate digital patient cohorts from 3D human phantom models to simulate longitudinal disease
+progression with diverse nodule types guided by real clinical findings utilizing statistical and generative models.
+* B) Train the model to predict nodule growth, malignancy risk, and future changes over time.
+* C) Embed rule-based decision trees
+(aligned with Lung-RADS) for interpretable and clinically relevant outputs.
+D) Develop a module to provide reporting
+and follow-up recommendations based on predicted risk levels.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Outcome:** A dynamic and transparent AI model capable of longitudinal analysis and providing actionable insights for
+clinicians.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+**Impact Statement:** The CLARITY project addresses key challenges in AI for lung cancer screening by integrating
+longitudinal data and rule-based interpretability into diagnostic workflows. Leveraging clinical and simulated digital
+patient cohorts, it aims to enhance diagnostic precision and provide actionable, guideline-aligned outputs. By fostering
+trust and improving clinical usability, the project aims to enhance AI-driven early detection and follow-up care,
+contributing to improvements in lung cancer screening and patient outcomes.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
