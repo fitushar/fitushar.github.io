@@ -391,9 +391,9 @@ ninja.data = [{
           section: "News",},{id: "news-presented-a-scientific-poster-on-virtual-human-twins-in-lung-health-at-the-radiological-society-of-north-america-rsna-2024-annual-meeting-in-chicago",
           title: 'Presented a Scientific poster on Virtual Human Twins in Lung Health at the...',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-virtual-lung-screening-trials-vlst",
+          title: 'Virtual Lung Screening Trials (VLST)',
+          description: "Virtual platform for evaluating imaging technologies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-ai-in-lung-health",
