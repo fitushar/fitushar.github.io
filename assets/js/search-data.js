@@ -387,11 +387,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-best-poster-award-at-the-first-international-summit-for-virtual-imaging-trials-in-medicine-2024",
+            },},{id: "news-best-poster-award-at-the-first-international-summit-for-virtual-imaging-trials-in-medicine-2024",
           title: 'Best Poster Award 🏆 at the First International Summit for Virtual Imaging Trials...',
+          description: "",
+          section: "News",},{id: "news-presented-a-scientific-poster-on-virtual-human-twins-in-lung-health-at-the-radiological-society-of-north-america-rsna-2024-annual-meeting-in-chicago",
+          title: 'Presented a Scientific poster on Virtual Human Twins in Lung Health at the...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
