@@ -4,7 +4,7 @@ title: Reality Check, In Silico COVID-19 Imaging Case-study (ReviCOVID)
 description: Virtual Imaging Trials Improved the Transparency and Reliability of AI Systems
 img: assets/img/Figure4.png
 redirect: https://fitushar.github.io/ReviCOVID.github.io/
-importance: 3
+importance: 4
 category: work
 ---
 
