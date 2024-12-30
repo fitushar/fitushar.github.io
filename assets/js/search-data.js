@@ -470,7 +470,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://drive.google.com/file/d/1NrUofmtSMDist3KNCUPPDGsu7FdkJSiv/view?usp=sharing", "_blank");
         },
       },{
       id: 'light-theme',
