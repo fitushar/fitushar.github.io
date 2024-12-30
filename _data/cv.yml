@@ -2,96 +2,79 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Fakrul Islam Tushar
+    - name: Email
+      value: tushar.ece@duke.edu
+    - name: Phone
+      value: +1 984-244-4464
+    - name: Location
+      value: Durham, NC, United States
+    - name: GitHub
+      value: https://github.com/fitushar
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/fitushar/
+    - name: Website
+      value: https://fitushar.github.io/
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Electrical and Computer Engineering
+      institution: Duke University, NC, USA
+      year: Aug 2021 - May 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Research focuses on AI & In-Silico trials in lung health.
+    - title: MSc, Medical Imaging and Applications (MaIA)
+      institution: Erasmus+ @uB (France), UNICAS (Italy), UdG (Spain), Duke University (USA)
+      year: Sept 2017 - July 2019
+    - title: BSc, Electrical and Electronic Engineering
+      institution: American International University-Bangladesh (AIUB)
+      year: Jan 2013 - Feb 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Fellow
+      institution: Duke Radiology
+      year: Oct 2019 - Feb 2021
+    - title: Summer Internship
+      institution: Duke Radiology
+      year: July 2018 - Sept 2018
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Lung Cancer Longitudinal AI with Rule-Based Interpretability (CLARITY)
+      year: In progress
+      description:
+        - Development of a foundational AI with synthetic longitudinal digital humans.
+    - title: Virtual Lungs Screening Trials (VLST)
+      description:
+        - In Silico alternative to clinical trials through Digital Human Twin, Virtual Scanner, and AI readers.
+        - Publications: RSNA24, SPIE24 (Travel Award), VITM24 (Best Poster), Med.AI.
+        - Details: https://fitushar.github.io/VLST.github.io/
+    - title: Transparency in Health AI
+      description:
+        - Understanding the transparency and limitations of AI.
+        - Publications: IEEE Access, SPIE22.
+        - Details: https://fitushar.github.io/ReviCOVID.github.io/
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Poster @ Virtual Imaging Trials in Medicine
+        - Travel Award @ SPIE Medical Imaging Conference
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Master Thesis Scholarship @ Duke Radiology
+    - year: 2017
+      items:
+        - Dean’s Award for Undergrad Final Year Project
+        - Cum Laude @ AIUB's 17th Convocation
+        - Undergrad Merit Scholarship @ AIUB ($3,000)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+
