@@ -46,6 +46,6 @@ x_username: f_i_tushar # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: Custom Social
-  url: https://www.alberteinstein.com/
+  logo: https://github.com/fitushar/fitushar.github.io/blob/main/assets/img/2ead74ed91d831b9e5ee4c4ba486a2dc.png # can be png, svg, jpg
+  title: CV Download
+  url: https://drive.google.com/file/d/1NrUofmtSMDist3KNCUPPDGsu7FdkJSiv/view?usp=sharing
