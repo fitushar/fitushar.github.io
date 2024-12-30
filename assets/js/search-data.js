@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "CV",
-          description: "Click to view or download my CV in PDF format",
+          title: "cv",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/cv.html";
+            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-image-galleries",
       
