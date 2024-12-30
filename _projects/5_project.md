@@ -5,9 +5,10 @@ description: Development of a foundational AI with Synthetic In Silico longitudi
 img: assets/img/CLARITY.jpg
 importance: 1
 category: Work
+related_publications: true
 ---
 
-**Work is in progress.....**
+**Work is in progress**
 
 This project will establish an open-access clinical benchmark and Virtual Imaging Trials (VIT) platform for lung cancer diagnosis (Aim 1). Furthermore, this project will develop a foundational Lung Cancer Longitudinal AI model with Rule-Based Interpretability (CLARITY) for lung cancer screening, leveraging clinical and digital patient cohorts generated from 4D human models (Aim 2). These digital cohorts will simulate diverse lung nodule characteristics (size, margin, type, and location ), each guided by real clinical findings and distributions to ensure clinical
 relevance and accuracy. The model will incorporate simulated longitudinal data to learn how nodules evolve over time, enabling dynamic risk predictions. Furthermore, rule-based interpretability layers aligned with clinical guidelines (Lung-RADS) will provide transparent outputs, while an actionable recommendation system will guide clinicians on follow-up reporting and care.
@@ -32,4 +33,3 @@ longitudinal data and rule-based interpretability into diagnostic workflows. Lev
 patient cohorts, it aims to enhance diagnostic precision and provide actionable, guideline-aligned outputs. By fostering
 trust and improving clinical usability, the project aims to enhance AI-driven early detection and follow-up care,
 contributing to improvements in lung cancer screening and patient outcomes.
-
