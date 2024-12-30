@@ -466,13 +466,6 @@ ninja.data = [{
           window.open("https://twitter.com/f_i_tushar", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://drive.google.com/file/d/1NrUofmtSMDist3KNCUPPDGsu7FdkJSiv/view?usp=sharing", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
