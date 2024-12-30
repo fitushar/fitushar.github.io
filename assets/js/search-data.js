@@ -382,12 +382,7 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-best-poster-award-at-the-first-international-summit-for-virtual-imaging-trials-in-medicine-2024",
+    },{id: "news-best-poster-award-at-the-first-international-summit-for-virtual-imaging-trials-in-medicine-2024",
           title: 'Best Poster Award 🏆 at the First International Summit for Virtual Imaging Trials...',
           description: "",
           section: "News",},{id: "news-dr-joseph-lo-amp-amp-fakrul-islam-tushar-delving-into-the-transformative-potential-of-ai-for-evaluating-in-silico-clinical-trials-spotlighting-3-groundbreaking-chest-imaging-studies",
