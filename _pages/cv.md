@@ -1,8 +1,9 @@
 ---
-layout: page
-title: "CV"
+layout: cv
+permalink: /cv/
+title: cv
 nav: true
-nav_order: 5
-redirect: https://fitushar.github.io/assets/pdf/Fakrul_CV_MedAI_ECE_PHD_Duke.pdf
-description: Click to view or download my CV in PDF format
+nav_order: 4
+cv_pdf: Fakrul_CV_MedAI_ECE_PHD_Duke.pdf
+description: 
 ---
