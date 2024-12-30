@@ -28,7 +28,7 @@ ninja.data = [{
           description: "You can download my CV pdf here",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/_pages/cv.html";
           },
         },{id: "post-a-post-with-image-galleries",
       
