@@ -401,9 +401,9 @@ ninja.data = [{
           description: "Benchmarking Detection, Diagnostic, Segmentation and Radiomics-based analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-reality-check-in-silico-covid-19-imaging-case-study-revicovid",
+          title: 'Reality Check, In Silico COVID-19 Imaging Case-study (ReviCOVID)',
+          description: "Virtual Imaging Trials Improved the Transparency and Reliability of AI Systems",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
