@@ -4,7 +4,7 @@ title: Lung Cancer Longitudinal AI with Rule-Based Interpretability (CLARITY)
 description: Development of a foundational AI with Synthetic In Silico longitudinal Digital Humans.
 img: assets/img/CLARITY.jpg
 importance: 1
-category: Work
+category: work
 related_publications: true
 ---
 
