@@ -14,6 +14,4 @@ This project uses COVID-19 as a case study to explore the impact of data diversi
 
 This project uses COVID-19 as a case study to explore the impact of data diversity and virtual imaging on AI diagnostic accuracy. By analyzing clinical and virtual CT and chest X-ray (CXR) images, we investigate how variations in dataset characteristics—such as imaging type and disease severity—affect AI performance. Virtual imaging is employed as a tool to evaluate model reliability under diverse conditions. The findings will provide insights into designing more robust AI models, with applications extending to other diseases beyond COVID-19, enhancing diagnostic consistency across varied patient data.
 
-S
-
 
