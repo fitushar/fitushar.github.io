@@ -416,6 +416,11 @@ ninja.data = [{
           description: "Development of a foundational AI with Synthetic In Silico longitudinal Digital Humans.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
+            },},{id: "projects-virtual-lung-screening-trials-vlst",
+          title: 'Virtual Lung Screening Trials (VLST)',
+          description: "Virtual platform for evaluating imaging technologies",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
             },},{
         id: 'social-email',
         title: 'email',
