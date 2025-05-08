@@ -416,9 +416,9 @@ ninja.data = [{
           description: "Development of a foundational AI with Synthetic In Silico longitudinal Digital Humans.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-virtual-lung-screening-trials-vlst",
-          title: 'Virtual Lung Screening Trials (VLST)',
-          description: "Virtual platform for evaluating imaging technologies",
+            },},{id: "projects-refine-lung",
+          title: 'ReFINE-Lung',
+          description: "REcalibration and False positive INference Engine for Consensus-Based Lung Nodule Detection",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
