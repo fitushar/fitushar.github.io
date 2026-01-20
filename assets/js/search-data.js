@@ -375,11 +375,11 @@ ninja.data = [{
           window.location.href = "/sample-posts/2015/03/15/formatting-and-links.html";
         
       },
-    },{id: "news-best-poster-award-at-the-first-international-summit-for-virtual-imaging-trials-in-medicine-2024",
-          title: 'Best Poster Award 🏆 at the First International Summit for Virtual Imaging Trials...',
-          description: "",
-          section: "News",},{id: "news-phd-defense-completed-bridging-the-gap-integrating-clinical-knowledge-simulation-and-generative-ai-for-lung-cancer-diagnosis",
+    },{id: "news-phd-defense-completed-bridging-the-gap-integrating-clinical-knowledge-simulation-and-generative-ai-for-lung-cancer-diagnosis",
           title: '🎓 PhD Defense Completed: Bridging the Gap: Integrating Clinical Knowledge, Simulation, and Generative...',
+          description: "",
+          section: "News",},{id: "news-preprint-live-nodmaisi-nodule-oriented-medical-ai-for-synthetic-imaging",
+          title: '📄 Preprint Live: NodMAISI — Nodule-Oriented Medical AI for Synthetic Imaging🌟',
           description: "",
           section: "News",},{id: "news-haid-health-ai-data-resource-is-live-an-open-evolving-hub-for-public-healthcare-datasets-and-standardized-preprocessing-tools-to-support-reproducible-health-ai-research",
           title: '🚀 HAID (Health AI Data Resource) is live — an open, evolving hub...',
