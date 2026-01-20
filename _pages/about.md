@@ -24,9 +24,13 @@ My research has been supported by Erasmus+ and Duke University grants and recogn
 
 ### Open Source and Outreach Activities
 I openly share most of the code developed during my research on [GitHub](https://github.com/fitushar). Explore my repository and additional resources below:
+* [HAID](https://fitushar.github.io/HAID.github.io/) - Health AI Data Resource
+
+* Nodule-Oriented Medical AI for Synthetic Imaging: [NodMAISI](https://github.com/fitushar/NoMAISI)
+* Point-driven nodule segmentation: [PiNS](https://github.com/fitushar/PiNS)
 * Virtual Lungs Screening Trials: [VLST](https://fitushar.github.io/VLST.github.io/)
+* Context-Aware Nodule Augmentation: [CaNA](https://github.com/fitushar/CaNA)
+
 * Duke Lung Nodule Dataset 2024: [Zenodo](https://zenodo.org/records/10782891)
 * AI in Lung Health Benchmark: [GitHub](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets)
 * In Silico Case-study: [ReviCOVID](https://fitushar.github.io/ReviCOVID.github.io/)
-* National Lungs Screening Trial's (NLST) 1000+ 3D nodule Annotation: [GitHub](https://github.com/fitushar/AI-in-Lung-Health-Benchmarking-Detection-and-Diagnostic-Models-Across-Multiple-CT-Scan-Datasets#nlst)
-* United-10 COVID19 CT Dataset: [Zenodo](https://zenodo.org/records/14064172)
