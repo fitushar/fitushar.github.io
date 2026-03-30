@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in AI & Medical Imaging @<a href='https://ece.duke.edu/'>Duke-ECE,CVIT</a>| Medical Imaging, Synthetic Data & In Silico Trials| <a href='https://maiamaster.udg.edu/'>MAIa</a> Graduate
+subtitle: Assistant Professor @ <a href='https://radiology.medicine.arizona.edu/'>University of Arizona</a> | Department of Radiology and Imaging Sciences | Lead, Tushar Lab | Healthcare AI, Medical Imaging & Digital Twins | PhD @ <a href='https://ece.duke.edu/'>Duke ECE, CVIT</a> | <a href='https://maiamaster.udg.edu/'>MAIA</a> Graduate
 
 profile:
   align: right
   image: Tushar_Fakrul_islam.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>fitushar.mi@gmail.com|USA</p>
+    <p>fitushar@arizona.edu|USA</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Fakrul Islam Tushar, PhD, a researcher in AI-driven medical imaging, trained at [Duke University’s Department of Electrical & Computer Engineering](https://ece.duke.edu/) and the [Center for Virtual Imaging Trials (CVIT)](https://cvit.duke.edu/). My research focuses on AI-driven multimodal medical imaging and digital twin technologies, aiming to advance personalized healthcare.
+I am Fakrul Islam Tushar, PhD, an Assistant Professor at the [University of Arizona](https://radiology.medicine.arizona.edu/), where I lead [Tushar Lab](https://tusharlabratory.github.io/). My research focuses on trustworthy AI for medical imaging, synthetic data, multimodal imaging, and virtual imaging trials, with an emphasis on building clinically grounded and reproducible AI systems for healthcare.
 
-I hold an [Erasmus+ Master’s degree in Medical Imaging (MaIA)](https://maiamaster.udg.edu/), having studied across Spain, Italy, and France, and have contributed to impactful research at [Duke’s RAI Labs](https://rai.labs.duke.edu/). I completed my B.Sc. in Electrical Engineering from [AIUB](https://www.aiub.edu/), graduating Cum Laude and receiving the Dean’s Award.
+I received my PhD training at [Duke University’s Department of Electrical & Computer Engineering](https://ece.duke.edu/) and the [Center for Virtual Imaging Trials (CVIT)](https://cvit.duke.edu/), where I worked on AI-driven medical imaging, simulation, and digital twin technologies. I also hold an [Erasmus+ Master’s degree in Medical Imaging (MaIA)](https://maiamaster.udg.edu/), completed across Spain, Italy, and France, and a B.Sc. in Electrical Engineering from [AIUB](https://www.aiub.edu/), where I graduated Cum Laude and received the Dean’s Award.
 
-My research has been supported by Erasmus+ and Duke University grants and recognized with multiple honors, including the Best Poster Award ([Virtual Imaging Trials in Medicine 2024](https://vitm.io/)) and a Travel Award from the [SPIE Medical Imaging Conference](https://spie.org/conferences-and-exhibitions/medical-imaging) 2024. Beyond academics, I have been actively involved with organizations like IEEE, Teach For Bangladesh, and Literacy Through Leadership.
-
+My work has been supported by Erasmus+ and Duke University and has been recognized through multiple honors, including the Best Poster Award at ([Virtual Imaging Trials in Medicine 2024](https://vitm.io/)) and a Travel Award from the [SPIE Medical Imaging Conference](https://spie.org/conferences-and-exhibitions/medical-imaging) 2024. Beyond research, I have also been involved in professional and service organizations including IEEE, Teach For Bangladesh, and Literacy Through Leadership.
 
 ### Open Source and Outreach Activities
 I openly share most of the code developed during my research on [GitHub](https://github.com/fitushar). Explore my repository and additional resources below:
