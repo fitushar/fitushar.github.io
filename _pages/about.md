@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ <a href='https://radiology.medicine.arizona.edu/'>University of Arizona</a> | Department of Radiology and Imaging Sciences | Lead, Tushar Lab | Healthcare AI, Medical Imaging & Digital Twins | PhD @ <a href='https://ece.duke.edu/'>Duke ECE, CVIT</a> | <a href='https://maiamaster.udg.edu/'>MAIA</a> Graduate
+subtitle: Assistant Professor @ <a href='https://radiology.medicine.arizona.edu/'>University of Arizona Radiology and Imaging Sciences</a> | Lead, Tushar Lab | Healthcare AI, Medical Imaging & Digital Twins | PhD @ <a href='https://ece.duke.edu/'>Duke ECE</a>, CVIT | <a href='https://maiamaster.udg.edu/'>MAIA</a> Graduate
 
 profile:
   align: right
