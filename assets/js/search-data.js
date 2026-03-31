@@ -422,16 +422,21 @@ ninja.data = [{
           description: "Weakly Supervised Classification",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-lung-cancer-longitudinal-ai-with-rule-based-interpretability-clarity",
-          title: 'Lung Cancer Longitudinal AI with Rule-Based Interpretability (CLARITY)',
-          description: "Development of a foundational AI with Synthetic In Silico longitudinal Digital Humans.",
+            },},{id: "projects-nodmaisi",
+          title: 'NodMAISI',
+          description: "Nodule-Oriented Medical AI for Synthetic Imaging",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-refine-lung",
-          title: 'ReFINE-Lung',
-          description: "REcalibration and False positive INference Engine for Consensus-Based Lung Nodule Detection",
+            },},{id: "projects-tri-annote",
+          title: 'Tri-Annote',
+          description: "Multi-Stage AI Pipeline for Lung Nodule Annotation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-haid",
+          title: 'HAID',
+          description: "Health AI Data Resource",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
             },},{
         id: 'social-email',
         title: 'email',
