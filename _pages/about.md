@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ <a href='https://radiology.medicine.arizona.edu/'>University of Arizona Radiology and Imaging Sciences</a> | Lead, Tushar Lab | Healthcare AI, Medical Imaging & Digital Twins | PhD @ <a href='https://ece.duke.edu/'>Duke ECE</a>, CVIT | <a href='https://maiamaster.udg.edu/'>MAIA</a> Graduate
+subtitle: Assistant Research Professor @ <a href='https://radiology.medicine.arizona.edu/'> Dept. Radiology and Imaging Science, University of Arizona</a> | Lead, @ <a href='https://tusharlabratory.github.io/'>Tushar Lab</a> | Healthcare x AI | PhD @ <a href='https://ece.duke.edu/'>Duke ECE</a>,| <a href='https://maiamaster.udg.edu/'>MaIA</a> Graduate
 
 profile:
   align: right
@@ -15,7 +15,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Fakrul Islam Tushar, PhD, an Assistant Professor at the [University of Arizona](https://radiology.medicine.arizona.edu/), where I lead [Tushar Lab](https://tusharlabratory.github.io/). My research focuses on trustworthy AI for medical imaging, synthetic data, multimodal imaging, and virtual imaging trials, with an emphasis on building clinically grounded and reproducible AI systems for healthcare.
+I am Fakrul Islam Tushar, an Assistant Research Professor at the [University of Arizona](https://radiology.medicine.arizona.edu/), where I lead [Tushar Lab](https://tusharlabratory.github.io/). My research focuses on data-centric AI for healthcare and medicine through data discovery, intelligent tools, and the integration of clinical, simulated, and synthetic datasets..
 
 I received my PhD training at [Duke University’s Department of Electrical & Computer Engineering](https://ece.duke.edu/) and the [Center for Virtual Imaging Trials (CVIT)](https://cvit.duke.edu/), where I worked on AI-driven medical imaging, simulation, and digital twin technologies. I also hold an [Erasmus+ Master’s degree in Medical Imaging (MaIA)](https://maiamaster.udg.edu/), completed across Spain, Italy, and France, and a B.Sc. in Electrical Engineering from [AIUB](https://www.aiub.edu/), where I graduated Cum Laude and received the Dean’s Award.
 
