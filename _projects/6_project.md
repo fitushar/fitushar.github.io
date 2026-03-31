@@ -1,25 +1,13 @@
 ---
 layout: page
-title: ReFINE-Lung
-description: REcalibration and False positive INference Engine for Consensus-Based Lung Nodule Detection
-img: assets/img/RrFinelung_fig1.png
+title: Tri-Annote
+description: Multi-Stage AI Pipeline for Lung Nodule Annotation
+img: assets/img/triannotate.png
 importance: 2
 category: work
-redirect: https://fitushar.github.io/ReFINELung.github.io/
+redirect: https://github.com/fitushar/TriAnnot
 related_publications: true
 ---
-Project page:[https://fitushar.github.io/ReFINELung.github.io/](https://fitushar.github.io/ReFINELung.github.io/)
+Project page: [GitHub](https://github.com/fitushar/TriAnnot)
 
-The clinical utility of AI models trained on simulated or publicly annotated datasets hinges on their ability to generalize to large-scale, real-world imaging data—an enduring challenge due to the high cost and complexity of expert annotations. To address this, we introduce ReFINE-Lung, a modular, consensus-driven framework for curating high-quality pseudo-labels from unannotated clinical lung CT scans. ReFINE-Lung begins with ensemble-based nodule candidate generation using diverse AI models trained on simulated, public, and institutional data. It then refines predictions through a four-stage ReFINE Block: (1) affine calibration of model outputs, (2) unsupervised prediction alignment to the clinical data distribution, (3) disease prevalence estimation via kernel density modeling, and (4) cost-sensitive thresholding. By combining multi-model agreement with morphological filters and statistical corrections, ReFINE-Lung produces scalable, trustworthy pseudo-labels that reduce false positives and enhance generalizability across clinical domains. This framework lays the foundation for semi-supervised training, domain adaptation, and external benchmarking of lung nodule detection systems in real-world screening environments.
-
-Collaborators
-Fakrul Islam Tushar (lead scientist), Joseph Y Lo (PI)
-
-Skills: Artificial Intelligence (AI) · Medical Imaging · Project Management · Image Processing
-
-
-
-
-.
-
-
+Tri-Annote is a comprehensive, freely available pipeline integrating lung segmentation, nodule detection, and malignancy classification into a unified tri-stage workflow designed to prioritize sensitivity while reducing annotator burden for first-pass lung nodule annotation in screening CT. It reduces manual annotation burden and improves consistency in lung nodule identification — enabling faster, more reliable screening workflows.
