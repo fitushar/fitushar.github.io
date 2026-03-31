@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Research Professor @ <a href='https://radiology.medicine.arizona.edu/'> Dept. Radiology and Imaging Science, University of Arizona</a> | Lead, @ <a href='https://tusharlabratory.github.io/'>Tushar Lab</a> | Healthcare x AI | PhD @ <a href='https://ece.duke.edu/'>Duke ECE</a>,| <a href='https://maiamaster.udg.edu/'>MaIA</a> Graduate
+subtitle: Assistant Research Professor @ <a href='https://radiology.medicine.arizona.edu/'> Dept. Radiology and Imaging Science, University of Arizona</a> | Lead @ <a href='https://tusharlabratory.github.io/'>Tushar Lab</a> | Healthcare x AI | PhD @ <a href='https://ece.duke.edu/'>Duke ECE</a>|<a href='https://maiamaster.udg.edu/'>MaIA</a> Graduate
 
 profile:
   align: right
