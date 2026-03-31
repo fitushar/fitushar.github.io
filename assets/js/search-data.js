@@ -385,8 +385,8 @@ ninja.data = [{
     },{id: "news-phd-defense-completed-bridging-the-gap-integrating-clinical-knowledge-simulation-and-generative-ai-for-lung-cancer-diagnosis",
           title: '🎓 PhD Defense Completed: Bridging the Gap: Integrating Clinical Knowledge, Simulation, and Generative...',
           description: "",
-          section: "News",},{id: "news-announcement-1",
-          title: 'Announcement_1',
+          section: "News",},{id: "news-preprint-live-nodmaisi-nodule-oriented-medical-ai-for-synthetic-imaging",
+          title: 'Preprint Live: NodMAISI — Nodule-Oriented Medical AI for Synthetic Imaging',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
